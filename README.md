@@ -30,8 +30,6 @@ function unset_supportedtypes_options () {
 * [Learn To Create WordPress Themes By Building 10 Projects [Video]](https://www.packtpub.com/web-development/learn-create-wordpress-themes-building-10-projects-video?utm_source=GitHub&utm_medium=repo&utm_campaign=9781787123373)
 
 * [WordPress: SEO, Marketing and Ecommerce [Video]](https://www.packtpub.com/web-development/wordpress-seo-marketing-and-ecommerce-video?utm_source=GitHub&utm_medium=repo&utm_campaign=9781787281097)
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
 
 
 
