@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B06591?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # WordPress Complete - Sixth Edition
 
 This is the code repository for [WordPress Complete - Sixth Edition](https://www.packtpub.com/application-development/wordpress-complete-fifth-edition?utm_source=GitHub&utm_medium=repo&utm_campaign=9781787285705), published by [Packt](https://www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
